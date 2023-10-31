@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="http://home-playtv.com:8080/xmltv.php?username=CR86483845&password=HUFBZ"
 #EXTM3U
 
 #PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
@@ -10,408 +11,224 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",Mais Informações da Lista entre em contato
  https://www.youtube.com/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:25/11/2022 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:01/11/2023 
 https://www.youtube.com/
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
 https://www.youtube.com/
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
 https://www.youtube.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="Informações da Lista",(44)991045772
  https://www.youtube.com/
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://www.kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14353
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="UFC 4K" tvg-logo="https://kanawat.com.br/icons/ufc.png" group-title="ESPORTES",UFC 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/58093
-#EXTINF:-1 tvg-id="" tvg-name="WWE 4K" tvg-logo="http://kanawat.com.br/icons/wwes.png" group-title="ESPORTES",WWE 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/58117
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="NBA 4K" tvg-logo="http://www.kanawat.com.br/icons/nba.png" group-title="ESPORTES",NBA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57776
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 4K" tvg-logo="http://www.kanawat.com.br/icons/espn.png" group-title="ESPORTES",ESPN 1 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14356
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="http://www.kanawat.com.br/icons/espn.png" group-title="ESPORTES",ESPN 1 FHD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/69909
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 4K" tvg-logo="http://www.kanawat.com.br/icons/espn2.png" group-title="ESPORTES",ESPN 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14354
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 4K" tvg-logo="http://www.kanawat.com.br/icons/espn3.png" group-title="ESPORTES",ESPN 3 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14355
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="Espn 4 4K" tvg-logo="http://www.kanawat.com.br/icons/espn4.png" group-title="ESPORTES",Espn 4 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14358
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://www.kanawat.com.br/icons/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14357
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORT 2 4K" tvg-logo="http://www.kanawat.com.br/icons/foxsportss.png" group-title="ESPORTES",FOX SPORT 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14359
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 4K" tvg-logo="http://www.kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14360
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 4K" tvg-logo="http://www.kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14361
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 4K" tvg-logo="http://www.kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 3 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14362
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF 4K" tvg-logo="http://kanawat.com.br/icons/off.png" group-title="ESPORTES",OFF 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14363
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORT 4K" tvg-logo="http://www.kanawat.com.br/icons/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14364
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER CLUB 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14365
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER 2 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14366
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER 3 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 3 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14367
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 4 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14368
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 5 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14369
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 6 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14370
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER 7 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 7 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14371
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://kanawat.com.br/icons/pfc.png" group-title="ESPORTES",PFC
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57863
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN 1 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48569
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",Dazn 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15064
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="http://kanawat.com.br/icons/dazn3.png" group-title="ESPORTES",DAZN 3 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48570
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48571
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 K " tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN F1 K 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48572
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN BRASIL 1 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64398
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",DAZN BRASIL 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64399
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15102
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15122
-#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15123
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 1 4k
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15234
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 2 4k
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15233
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 3 4k
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/46405
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 4 FHD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/76213
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 1 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56336
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 2 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56337
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 3 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56338
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1 HD" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 1 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56339
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 2 HD" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 2 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56340
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 3 HD" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 3 HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/56341
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 1 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 1 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77422
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 2 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77423
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 3 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 3 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77424
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 4 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 4 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77425
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 5 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 5 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77426
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS BR ONDEMAND 6 4K" tvg-logo="https://www.kanawat.com.br/icons/sportsondemand.png" group-title="ESPORTES",SPORTS BR ONDEMAND 6 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/77427
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO SP 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48530
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RJ 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48531
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV CAMPINAS HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48532
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name=" GLOBO TV TEM SOROCABA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO TV TEM SOROCABA
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64383
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RCP CURITIBA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48533
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="RPC FOZ DO IGUACU" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",RPC FOZ DO IGUACU
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/72386
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC TV FLORIANOPOIS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOIS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48534
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO MINAS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48536
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48537
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48538
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Natal 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",Globo Natal 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64392
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BAHIA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BAHIA
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64389
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NORDESTE 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48539
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48535
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48540
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO ANHANGUERA GOIANIA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64390
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO GLOBO EPTV RIBEIRO PRETO 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV RIBEIRO PRETO 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64382
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BELEM" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BELEM
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48541
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV CABUGI" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CABUGI
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64384
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CENTRO AMERICA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48542
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETE VITORIA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV GAZETE VITORIA HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64395
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48545
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48546
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64385
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64388
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64386
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64387
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64393
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48547
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO PORTUGAL HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO PORTUGAL HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64394
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name=" GLOBO FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO FORTALEZA
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64381
-#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais Globo 4K" tvg-logo="http://painelgerenciador.com.br/icons/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14557
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan HD" tvg-logo="https://www.kanawat.com.br/icons/jpnews.png" group-title="NOTÍCIAS",Jovem Pan HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/63938
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="http://www.kanawat.com.br/icons/globonewss.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14562
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS 4K" tvg-logo="https://kanawat.com.br/icons/bandnew.png" group-title="NOTÍCIAS",BAND NEWS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14563
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS 4K" tvg-logo="https://kanawat.com.br/icons/recordnew.png" group-title="NOTÍCIAS",RECORD NEWS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48559
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K" tvg-logo="http://kanawat.com.br/icons/cnnbr.png" group-title="NOTÍCIAS",CNN BRASIL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48560
-#EXTINF:-1 tvg-id="cnnplus1.br" tvg-name="CNN ESPANOL HD" tvg-logo="http://kanawat.com.br/icons/cnnesp.png" group-title="NOTÍCIAS",CNN ESPANOL HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48561
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48562
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="CNN Portugal PT" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN Portugal PT
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57910
-#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="CNBC" tvg-logo="http://kanawat.com.br/icons/cnbc.png" group-title="NOTÍCIAS",CNBC
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57838
-#EXTINF:-1 tvg-id="bloomberg.ae" tvg-name="Bloomberg 4K" tvg-logo="http://painelgerenciador.com.br/icons/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14564
-#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News" tvg-logo="http://kanawat.com.br/icons/bbcworld.png" group-title="NOTÍCIAS",BBC World News
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57817
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RJ HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RJ HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14573
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD SP HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14566
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD TV" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD TV
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48568
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BELEM HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BELEM HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14570
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BH HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BH HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14571
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD DF HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD DF HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14572
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD GO HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD GO HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14568
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD MANAUS HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15054
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD Para HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD Para HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14569
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RS HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14567
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48552
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SP 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64404
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MT HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT MT HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15119
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT PR HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64406
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT RJ HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64405
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BRASILIA HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT BRASILIA HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64407
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Interior" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Interior
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/60587
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Nordeste " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Nordeste 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/60585
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Recife HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Recife HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/60586
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SCC " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SCC 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15004
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV (BACKUP)" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT TV (BACKUP)
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/64408
-#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND  SP 4K" tvg-logo="http://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",BAND  SP 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15231
-#EXTINF:-1 tvg-id="band.br" tvg-name="TV BV - BAND SANTA CATARINA " tvg-logo="https://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",TV BV - BAND SANTA CATARINA 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14967
-#EXTINF:-1 tvg-id="bandminas.br" tvg-name="TV MANAIRA - BAND DA PARAIBA" tvg-logo="http://www.kanawat.com.br/icons/band.png" group-title="REDE BAND",TV MANAIRA - BAND DA PARAIBA
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15232
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48553
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15008
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48555
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14983
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/48554
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV SUL" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetvsul.png" group-title="MAIS CANAIS",Rede TV SUL
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15086
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redevida.png" group-title="RELIGIOSOS",REDE VIDA
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15120
-#EXTINF:-1 tvg-id="" tvg-name="Rede Boas Novas" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeboasnovas.png" group-title="MAIS CANAIS",Rede Boas Novas
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15083
-#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15020
-#EXTINF:-1 tvg-id="" tvg-name="Rede Litoral News" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redelitoralnews.png" group-title="MAIS CANAIS",Rede Litoral News
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15085
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15024
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV União DF " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeuniao.png" group-title="MAIS CANAIS",REDE TV União DF 
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/15095
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK 4K" tvg-logo="http://www.kanawat.com.br/icons/nick.png" group-title="INFANTIS",NICK 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14411
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR 4K" tvg-logo="http://www.kanawat.com.br/icons/nickjr.png" group-title="INFANTIS",NICK JR 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14412
-#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14413
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="https://www.kanawat.com.br/icons/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14415
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito 4K" tvg-logo="https://www.kanawat.com.br/icons/boomerang.png" group-title="INFANTIS",Cartoonito 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14418
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoon Network 4K" tvg-logo="https://www.kanawat.com.br/icons/cartoonnetwork.png" group-title="INFANTIS",Cartoon Network 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14417
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB 4K" tvg-logo="http://www.kanawat.com.br/icons/gloob.png" group-title="INFANTIS",GLOOB 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14420
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO 4K" tvg-logo="http://www.kanawat.com.br/icons/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14421
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://www.kanawat.com.br/icons/tnt.png" group-title="FILMES E SERIES",TNT 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14374
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K" tvg-logo="https://www.kanawat.com.br/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14375
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="http://www.kanawat.com.br/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14396
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="https://www.kanawat.com.br/icons/space.png" group-title="FILMES E SERIES",SPACE 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14376
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY 4K" tvg-logo="http://www.kanawat.com.br/icons/sony.png" group-title="FILMES E SERIES",SONY 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14399
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY 4K" tvg-logo="http://www.kanawat.com.br/icons/syfy.png" group-title="FILMES E SERIES",SYFY 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14400
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX 4K" tvg-logo="https://www.kanawat.com.br/icons/fx.png" group-title="FILMES E SERIES",FX 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14381
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://www.kanawat.com.br/icons/axn.png" group-title="FILMES E SERIES",AXN 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14398
-#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14379
-#EXTINF:-1 tvg-id="starhits.br" tvg-name="STAR HITS 4K" tvg-logo="https://www.kanawat.com.br/icons/starhits.png" group-title="FILMES E SERIES",STAR HITS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14377
-#EXTINF:-1 tvg-id="cinecanal.ar" tvg-name="CINE CANAL 4K" tvg-logo="http://www.kanawat.com.br/icons/cinecanal.png" group-title="FILMES E SERIES",CINE CANAL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14380
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="http://www.kanawat.com.br/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14382
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="https://www.kanawat.com.br/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14384
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC PREMIUM 4K" tvg-logo="http://www.kanawat.com.br/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14383
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC TOUCH 4K" tvg-logo="http://www.kanawat.com.br/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14385
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC FUN 4K" tvg-logo="https://www.kanawat.com.br/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14386
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC CULT 4K" tvg-logo="http://www.kanawat.com.br/icons/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14387
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo.png" group-title="FILMES E SERIES",HBO 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14388
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14389
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14392
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14393
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14390
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14394
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14395
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14391
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://www.kanawat.com.br/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14406
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://www.kanawat.com.br/icons/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14403
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://www.kanawat.com.br/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14401
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://www.kanawat.com.br/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14405
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="https://www.kanawat.com.br/icons/warnnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14404
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT 4K" tvg-logo="http://www.kanawat.com.br/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14402
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="http://www.kanawat.com.br/icons/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14397
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E 4K" tvg-logo="https://www.kanawat.com.br/icons/aee.png" group-title="FILMES E SERIES",A&E 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14408
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM 4K" tvg-logo="http://www.kanawat.com.br/icons/tcm.png" group-title="FILMES E SERIES",TCM 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14409
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine ACTION 4K" tvg-logo="http://kanawat.com.br/icons/tvcineaction.png" group-title="PT  FILMES E SERIES",TVCine ACTION 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57724
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine EDITION 4K" tvg-logo="http://kanawat.com.br/icons/tvcineedition.png" group-title="PT  FILMES E SERIES",TVCine EDITION 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57726
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine EMOTION 4K" tvg-logo="http://kanawat.com.br/icons/tvcineemotion.png" group-title="PT  FILMES E SERIES",TVCine EMOTION 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57728
-#EXTINF:-1 tvg-id="mcmtophd.pt" tvg-name="TVCine TOP 4K" tvg-logo="http://kanawat.com.br/icons/tvcinetop.png" group-title="PT  FILMES E SERIES",TVCine TOP 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57730
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox 4K" tvg-logo="https://www.kanawat.com.br/icons/fox.png" group-title="PT  FILMES E SERIES",Fox 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57714
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="Fox Comedy HD" tvg-logo="http://www.kanawat.com.br/icons/foxcomedy.png" group-title="PT  FILMES E SERIES",Fox Comedy HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57710
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime HD" tvg-logo="https://www.kanawat.com.br/icons/foxcrime.png" group-title="PT  FILMES E SERIES",Fox Crime HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57712
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life HD" tvg-logo="http://www.kanawat.com.br/icons/foxlife.png" group-title="PT  FILMES E SERIES",Fox Life HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57715
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="Fox Movies" tvg-logo="http://www.kanawat.com.br/icons/foxmovies.png" group-title="PT  FILMES E SERIES",Fox Movies
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57717
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://www.kanawat.com.br/icons/hollywood.png" group-title="PT  FILMES E SERIES",Hollywood HD
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57721
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NAT GEO 4K" tvg-logo="https://www.kanawat.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14427
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NAT GEO HEVC" tvg-logo="https://www.kanawat.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO HEVC
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/57914
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian Channel 4K" tvg-logo="http://www.kanawat.com.br/icons/smith.png" group-title="DOCUMENTARIOS",Smithsonian Channel 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14429
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://www.kanawat.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14428
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 4K" tvg-logo="https://www.kanawat.com.br/icons/e.png" group-title="VARIEDADES",E! 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14441
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC 4K" tvg-logo="https://www.kanawat.com.br/icons/tlc.png" group-title="VARIEDADES",TLC 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14442
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K" tvg-logo="https://www.kanawat.com.br/icons/viva.png" group-title="VARIEDADES",VIVA 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14444
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="https://www.kanawat.com.br/icons/gnt.png" group-title="VARIEDADES",GNT 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14443
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS 4K" tvg-logo="http://www.kanawat.com.br/icons/tbs.png" group-title="VARIEDADES",TBS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14449
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUE TV 4K" tvg-logo="https://www.kanawat.com.br/icons/truetv.png" group-title="VARIEDADES",TRUE TV 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14445
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFE TIME 4K" tvg-logo="http://www.kanawat.com.br/icons/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14446
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://www.kanawat.com.br/icons/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14448
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://www.kanawat.com.br/icons/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14424
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS 4K" tvg-logo="http://www.kanawat.com.br/icons/bis.png" group-title="MUSICA&ENTR",BIS 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14423
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://www.kanawat.com.br/icons/vh1.png" group-title="MUSICA&ENTR",VH1 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14426
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 4K" tvg-logo="http://www.kanawat.com.br/icons/mtv.png" group-title="MUSICA&ENTR",MTV 4K
-http://massud.homelinux.com:80/tzBLS5c0oi5LlhDD/j2NZVOqe0SWnqNy3/14425
+
+#EXTINF: -1 tvg-name="BR | ALL Sports" tvg-logo="http://tvstar.cc:8880/chimg/6404667479.png" group-title="BRASIL", BR | Todos os esportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236472
+#EXTINF: -1 tvg-name="BR | Animal Planet HD" tvg-logo="http://www.vod-logo.net/photos/99418ec1388757708a4e61693a8a9c3e.JPG" group-title="BRASIL", BR | Planeta Animal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236470
+#EXTINF: -1 tvg-name="BR | AXN HD" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" group-title="BRASIL", BR | AXNHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236473
+#EXTINF: -1 tvg-name="BR | Band News HD" tvg-logo="http://www.vod-logo.net/photos/251242fc9e7cb80736081bfd73f580ab.png" group-title="BRASIL", BR | Notícias da banda HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236463
+#EXTINF: -1 tvg-name="BR | Banda SP HD" tvg-logo="http://www.vod-logo.net/photos/63db0edfc4d9f376503d2f10349254de.png" group-title="BRASIL", BR | Banda SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236471
+#EXTINF: -1 tvg-name="BR | Band Sports HD" tvg-logo="http://www.vod-logo.net/photos/aa6d0c1de0efa824e912901e48522e2d.png" group-title="BRASIL", BR | Banda Esportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236482
+#EXTINF: -1 tvg-name="BR | Boomerang HD" tvg-logo="http://www.vod-logo.net/photos/5357397dbb36bf9ff844469e098c0f5d.jpg" group-title="BRASIL", BR | Bumerangue HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236501
+#EXTINF: -1 tvg-name="BR | Canal Brasil SD" tvg-logo="http://www.vod-logo.net/photos/7d6ac716d6e60cc83764ae4188f40955.png" group-title="BRASIL", BR | Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236480
+#EXTINF: -1 tvg-name="BR | Combate HD" tvg-logo="http://www.vod-logo.net/photos/2ab115291c98dcccd76e469cb8221f69.png" group-title="BRASIL", BR | Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236507
+#EXTINF: -1 tvg-name="BR | Discovery Kids HD" tvg-logo="http://www.vod-logo.net/photos/c40c90b70cb4b37748d0405639401686.jpg" group-title="BRASIL", BR | Descoberta Crianças HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236465
+#EXTINF: -1 tvg-name="BR | Discovery Science HD" tvg-logo="http://www.vod-logo.net/photos/c5f6506ed966bf3ed685f10928546cd4.jpg" group-title="BRASIL", BR | Ciência da Descoberta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236490
+#EXTINF: -1 tvg-name="BR | Discovery TLC HD" tvg-logo="http://www.vod-logo.net/photos/b9dc69ed783f5deebbf4881a0f8b329a.png" group-title="BRASIL", BR | Descoberta TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236484
+#EXTINF: -1 tvg-name="BR | Discovery World HD" tvg-logo="http://www.vod-logo.net/photos/db2513bd0f4eacef1590b3cf6e5deba0.jpg" group-title="BRASIL", BR | Descoberta do Mundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236520
+#EXTINF: -1 tvg-name="BR | Disney Junior HD" tvg-logo="http://www.vod-logo.net/photos/78b71901317e11997e75321e99ea8f0f.jpg" group-title="BRASIL", BR | Disney Júnior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236508
+#EXTINF: -1 tvg-name="BR | ESPN 2 HD" tvg-logo="http://www.vod-logo.net/photos/ad9cf2ecbe0b5f59b572dd201663f387.jpg" group-title="BRASIL", BR | ESPN 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236464
+#EXTINF: -1 tvg-name="BR | ESPN Brasil HD" tvg-logo="http://www.vod-logo.net/photos/40623663c189d87debd7429e2557bc14.png" group-title="BRASIL", BR | ESPN BrasilHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236456
+#EXTINF: -1 tvg-name="BR | ESPN EXtra HD" tvg-logo="http://www.vod-logo.net/photos/c1151548a71a96178cd054ffb55be9c2.png" group-title="BRASIL", BR | ESPN EXtraHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236466
+#EXTINF: -1 tvg-name="BR | Peixe TV HD" tvg-logo="http://www.vod-logo.net/photos/4ae4ed75c5658c528095d346d44f58ea.png" group-title="BRASIL", BR | Peixe TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236539
+#EXTINF: -1 tvg-name="BR | Food Network HD" tvg-logo="http://www.vod-logo.net/photos/1ec435d156426c2fc5d6bc8c1031d1b4.png" group-title="BRASIL", BR | Rede Alimentar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236549
+#EXTINF: -1 tvg-name="BR | FOX Life HD" tvg-logo="http://www.vod-logo.net/photos/0bcfb1ace5963df4874f1a5a86db307b.jpg" group-title="BRASIL", BR | FOX Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236499
+#EXTINF: -1 tvg-name="BR | FOX Premium 2 HD" tvg-logo="http://www.vod-logo.net/photos/26d1bd1ca50805dec8f7a4093841aa8f.png" group-title="BRASIL", BR | FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236488
+#EXTINF: -1 tvg-name="BR | FOX Sports 1" tvg-logo="http://tvstar.cc:8880/chimg/4060548207.png" group-title="BRASIL", BR | FOX Esportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236455
+#EXTINF: -1 tvg-name="BR | Futura HD" tvg-logo="http://www.vod-logo.net/photos/804ac7067bc21aca533af593692a0300.png" group-title="BRASIL", BR | Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236515
+#EXTINF: -1 tvg-name="BR | FX HD" tvg-logo="http://www.vod-logo.net/photos/b77b8a15095db74df8e61e0d73895ecb.jpg" group-title="BRASIL", BR | FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236493
+#EXTINF: -1 tvg-name="BR | Globo Brasília SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo Brasília SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236485
+#EXTINF: -1 tvg-name="BR | Globo EPTV Campinas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236498
+#EXTINF: -1 tvg-name="BR | Globo EPTV São Carlos SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo EPTV São Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236486
+#EXTINF: -1 tvg-name="BR | Globo INTER TV Cabugi RN SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo INTER TV Cabugi RN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236527
+#EXTINF: -1 tvg-name="BR | Globo Minas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236500
+#EXTINF: -1 tvg-name="BR | Globo News HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo Notícias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236535
+#EXTINF: -1 tvg-name="BR | Globo Nordeste HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236495
+#EXTINF: -1 tvg-name="BR | Globo Premium" tvg-logo="http://tvstar.cc:8880/chimg/3362376655.png" group-title="BRASIL", BR | Globo Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236494
+#EXTINF: -1 tvg-name="BR | Globo RBS TV Pelotas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236502
+#EXTINF: -1 tvg-name="BR | Globo RJ HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236474
+#EXTINF: -1 tvg-name="BR | Globo RPC Curitiba HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236522
+#EXTINF: -1 tvg-name="BR | Globo RPC HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo RPCHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236566
+#EXTINF: -1 tvg-name="BR | Globo RPC TV SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo RPC TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236496
+#EXTINF: -1 tvg-name="BR | Globo SP HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236476
+#EXTINF: -1 tvg-name="BR | TV Globo Bahia SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236516
+#EXTINF: -1 tvg-name="BR | Globo TV Morena HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | TV Globo MorenaHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236513
+#EXTINF: -1 tvg-name="BR | TV Globo Tem Sorocaba SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236543
+#EXTINF: -1 tvg-name="BR | Globo TV Tribuna Santos SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236529
+#EXTINF: -1 tvg-name="BR | GNT HD" tvg-logo="http://www.vod-logo.net/photos/0de01f176c3c2d05485a5820e38929b6.png" group-title="BRASIL", BR | GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236509
+#EXTINF: -1 tvg-name="BR | HBO 2 HD" tvg-logo="http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png" group-title="BRASIL", BR | HBO2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236475
+#EXTINF: -1 tvg-name="BR | HBO Family HD" tvg-logo="http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png" group-title="BRASIL", BR | Família HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236489
+#EXTINF: -1 tvg-name="BR | HBO Plus*e HD" tvg-logo="http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png" group-title="BRASIL", BR | HBO Plus*e HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236487
+#EXTINF: -1 tvg-name="BR | HBO Pop HD" tvg-logo="http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png" group-title="BRASIL", BR | HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236504
+#EXTINF: -1 tvg-name="BR | HGTV HD" tvg-logo="http://www.vod-logo.net/photos/e9ff8edf9184888a59147e305b85c693.jpg" group-title="BRASIL", BR | HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236523
+#EXTINF: -1 tvg-name="BR | History Channel HD" tvg-logo="http://www.vod-logo.net/photos/37a940e94c8bdeff3bd830d83fb969d5.jpg" group-title="BRASIL", BR | História Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236514
+#EXTINF: -1 tvg-name="BR | MTV HD" tvg-logo="http://www.vod-logo.net/photos/2e84096e3232283a1d3b5c894635d8c0.jpg" group-title="BRASIL", BR | MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236503
+#EXTINF: -1 tvg-name="BR | MTV Live HD" tvg-logo="http://www.vod-logo.net/photos/19101803e2d96ebae622813479d8619a.JPG" group-title="BRASIL", BR | MTV ao vivo em alta definição
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236506
+#EXTINF: -1 tvg-name="BR | Music BoX Brasil SD" tvg-logo="http://www.vod-logo.net/photos/3e9960a9e1f533dc0ec6e42754bfbe53.png" group-title="BRASIL", BR | Music BoX Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236544
+#EXTINF: -1 tvg-name="BR | National Geographic Kids HD" tvg-logo="http://www.vod-logo.net/photos/e2032b3ac4cca05ced931801f031f98b.jpg" group-title="BRASIL", BR | National Geographic Crianças HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236497
+#EXTINF: -1 tvg-name="BR | Nick Jr HD" tvg-logo="http://www.vod-logo.net/photos/0c8d11f5c69d372a2fdf215d46607382.jpg" group-title="BRASIL", BR | Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236512
+#EXTINF: -1 tvg-name="BR | Paramount Channel HD" tvg-logo="http://www.vod-logo.net/photos/64131aa7035614b42b17d96e4a4f6ef4.jpg" group-title="BRASIL", BR | Canal Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236548
+#EXTINF: -1 tvg-name="BR | Premiere 2 HD" tvg-logo="http://www.vod-logo.net/photos/4c0868870678993607523943dfaa7135.png" group-title="BRASIL", BR | Estreia 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236469
+#EXTINF: -1 tvg-name="BR | Premiere Clubes HD" tvg-logo="http://www.vod-logo.net/photos/cfb462ba1adb245365243c6c3873561d.jpg" group-title="BRASIL", BR | Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236510
+#EXTINF: -1 tvg-name="BR | Gravação Campinas HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL", BR | Gravação Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236552
+#EXTINF: -1 tvg-name="BR | Gravar MG SD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL", BR | Gravar MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236521
+#EXTINF: -1 tvg-name="BR | Record Nordeste HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL", BR | Gravar Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236517
+#EXTINF: -1 tvg-name="BR | Gravação RJ SD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL", BR | Gravar RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236545
+#EXTINF: -1 tvg-name="BR | Gravação SP HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="BRASIL", BR | Gravar SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236481
+#EXTINF: -1 tvg-name="BR | Rede Brasil" tvg-logo="http://tvstar.cc:8880/chimg/7551321734.png" group-title="BRASIL", BR | Rede Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236546
+#EXTINF: -1 tvg-name="BR | Rede Família SD" tvg-logo="http://www.vod-logo.net/photos/98ccad0e9f21002ace31be66895bbe1b.png" group-title="BRASIL", BR | Rede Família SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236555
+#EXTINF: -1 tvg-name="BR | Rede Gospel SD" tvg-logo="http://www.vod-logo.net/photos/c9e43cead562942cd6d1f9bfa543e78c.png" group-title="BRASIL", BR | Rede Gospel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236532
+#EXTINF: -1 tvg-name="BR | Rede TV HD" tvg-logo="http://www.vod-logo.net/photos/e2e3552fd5e46d0baa79ee6efdaa864e.png" group-title="BRASIL", BR | Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236511
+#EXTINF: -1 tvg-name="BR | Rede Vida HD" tvg-logo="http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png" group-title="BRASIL", BR | Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236528
+#EXTINF: -1 tvg-name="BR | SBT TV Cidade Verde Piauí SD" tvg-logo="http://www.vod-logo.net/photos/4ddb5a7932232241bf80757563e3d391.png" group-title="BRASIL", BR | SBT TV Cidade Verde Piauí SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236477
+#EXTINF: -1 tvg-name="BR | Sony HD" tvg-logo="http://www.vod-logo.net/photos/d0851cea612d28d826de33db62bc7b9d.png" group-title="BRASIL", BR | Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236479
+#EXTINF: -1 tvg-name="BR | Espaço HD" tvg-logo="http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png" group-title="BRASIL", BR | Espaço HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236483
+#EXTINF: -1 tvg-name="BR | SporTV 3" tvg-logo="http://tvstar.cc:8880/chimg/1146041757.png" group-title="BRASIL", BR | SportTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236454
+#EXTINF: -1 tvg-name="BR | SporTV 2 HD" tvg-logo="http://www.vod-logo.net/photos/a55e09f0b5d8a66bd9520354f28cd892.png" group-title="BRASIL", BR | SportTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236468
+#EXTINF: -1 tvg-name="BR | SporTV 3 HD" tvg-logo="http://www.vod-logo.net/photos/9b32ff822cf480295b0c35f887fdef14.png" group-title="BRASIL", BR | SportTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236459
+#EXTINF: -1 tvg-name="BR | TCM SD" tvg-logo="http://www.vod-logo.net/photos/5917cd959434c3d9c54c2a70c4a4d8da.png" group-title="BRASIL", BR | MTC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236536
+#EXTINF: -1 tvg-name="BR | Telecine Action HD" tvg-logo="http://www.vod-logo.net/photos/e96a6d57d88a08931819eb943cf3b591.png" group-title="BRASIL", BR | Telecine Ação HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236491
+#EXTINF: -1 tvg-name="BR | Telecine Fun HD" tvg-logo="http://www.vod-logo.net/photos/b9af52d7508cd0827438a6dce158c628.png" group-title="BRASIL", BR | Telecine Diversão HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236505
+#EXTINF: -1 tvg-name="BR | Telecine Pipoca HD" tvg-logo="http://www.vod-logo.net/photos/9d0ca6f7d133e58874f4665addb9f013.png" group-title="BRASIL", BR | Telecine PipocaHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236492
+#EXTINF: -1 tvg-name="BR | Telecine Touch HD" tvg-logo="http://www.vod-logo.net/photos/37bf251b332e8254e194998a9ddac1c1.png" group-title="BRASIL", BR | Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236526
+#EXTINF: -1 tvg-name="BR | TNT HD" tvg-logo="http://www.vod-logo.net/photos/01f3869164d8b1299b002affe7463018.jpg" group-title="BRASIL", BR | TNT-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236458
+#EXTINF: -1 tvg-name="BR | TNT Séries HD" tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="BRASIL", BR | Série TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236462
+#EXTINF: -1 tvg-name="BR | Tooncast HD" tvg-logo="http://www.vod-logo.net/photos/7eb5642cfb9e5ab1f8280a254a1d8a2e.png" group-title="BRASIL", BR | Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236542
+#EXTINF: -1 tvg-name="BR | TV Diário Do Sertão" tvg-logo="http://tvstar.cc:8880/chimg/3439471167.png" group-title="BRASIL", BR | TV Diário do Sertão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236553
+#EXTINF: -1 tvg-name="BR | TV Gazeta SD" tvg-logo="http://www.vod-logo.net/photos/de02a544e1406928608964558e5006ad.png" group-title="BRASIL", BR | TV Gazeta SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236537
+#EXTINF: -1 tvg-name="BR | Universal Channel HD" tvg-logo="http://www.vod-logo.net/photos/a1e1a4fa3d12c6e582f6e0d6286397fc.jpg" group-title="BRASIL", BR | Canal Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236540
+#EXTINF: -1 tvg-name="BR | Viva HD" tvg-logo="http://www.vod-logo.net/photos/1e290370a477858119798c8b6293ccfa.png" group-title="BRASIL", BR | Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236531
+#EXTINF: -1 tvg-name="BR | Woohoo HD" tvg-logo="http://www.vod-logo.net/photos/979c75c759c6951fd52ac44877498c88.png" group-title="BRASIL", BR | Uau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236533
+#EXTINF: -1 tvg-name="BR | Zoomoo HD" tvg-logo="http://www.vod-logo.net/photos/387b06de40950940618d88d43e809314.png" group-title="BRASIL", BR | Zoomoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236534
+#EXTINF: -1 tvg-name="BR | Discovery World SD" tvg-logo="http://tvstar.cc:8880/chimg/1030312508.png" group-title="BRASIL", BR | Descoberta do Mundo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236551
+#EXTINF: -1 tvg-name="BR | Disney XD HD" tvg-logo="http://tvstar.cc:8880/chimg/4662969329.png" group-title="BRASIL", BR | DisneyXD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236559
+#EXTINF: -1 tvg-name="BR | Globo Nordeste" tvg-logo="http://tvstar.cc:8880/chimg/5077514416.png" group-title="BRASIL", BR | Globo Nordeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236562
+#EXTINF: -1 tvg-name="BR | Globo RBS Porto Alegre" tvg-logo="http://tvstar.cc:8880/chimg/6917378354.png" group-title="BRASIL", BR | Globo RBS Porto Alegre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236557
+#EXTINF: -1 tvg-name="BR | Globo SP FHD" tvg-logo="http://tvstar.cc:8880/chimg/9832569534.png" group-title="BRASIL", BR | Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236556
+#EXTINF: -1 tvg-name="BR | Globo TV Morena FHD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236570
+#EXTINF: -1 tvg-name="BR | TV Globo Tem Sorocaba HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="BRASIL", BR | Globo TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236525
+#EXTINF: -1 tvg-name="BR | Multishow HD" tvg-logo="http://tvstar.cc:8880/chimg/EHheYAMW.png" group-title="BRASIL", BR | Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236567
+#EXTINF: -1 tvg-name="BR | NatGeo Wild SD" tvg-logo="http://tvstar.cc:8880/chimg/8219614841.png" group-title="BRASIL", BR | NatGeo Selvagem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236561
+#EXTINF: -1 tvg-name="BR | Estreia 1 HD" tvg-logo="http://tvstar.cc:8880/chimg/4350750065.png" group-title="BRASIL", BR | Estreia 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236524
+#EXTINF: -1 tvg-name="BR | Premiere 3 HD" tvg-logo="http://tvstar.live:8880/chimg/2257102255.png" group-title="BRASIL", BR | Estreia 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236568
+#EXTINF: -1 tvg-name="BR | Premiere 4 HD" tvg-logo="http://tvstar.live:8880/chimg/2421965133.png" group-title="BRASIL", BR | Estreia 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236569
+#EXTINF: -1 tvg-name="BR | Grava RJ HD" tvg-logo="http://tvstar.cc:8880/chimg/5229916706.png" group-title="BRASIL", BR | Gravar RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236518
+#EXTINF: -1 tvg-name="BR | Rede Vida HD" tvg-logo="http://tvstar.cc:8880/chimg/9077827082.png" group-title="BRASIL", BR | Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236547
+#EXTINF: -1 tvg-name="BR | SporTV 1 HD" tvg-logo="http://tvstar.cc:8880/chimg/8929015938.png" group-title="BRASIL", BR | SportTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236460
+#EXTINF: -1 tvg-name="BR | SporTV 2 FHD" tvg-logo="http://tvstar.cc:8880/chimg/6761672070.png" group-title="BRASIL", BR | SportTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236461
+#EXTINF: -1 tvg-name="BR | Telecine Fun SD" tvg-logo="http://tvstar.cc:8880/chimg/2444597720.png" group-title="BRASIL", BR | Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236560
+#EXTINF: -1 tvg-name="BR | Série TNT FHD" tvg-logo="http://tvstar.cc:8880/chimg/9529749885.png" group-title="BRASIL", BR | Série TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&buffer=60000&url=http://home-playtv.com:8080/CR86483845/HUFBZ/236457
